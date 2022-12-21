@@ -16,9 +16,9 @@ This file is related to the course I registered for in 2022 Spring at UCLA exten
 
 ### 003.Project(1/2): **$\textcolor{blue}{2020\ American\ Presidential\ Votes\ Analysis}$**
 > __Note__
-- [Code here](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Individual%20project_Chen%20Wang.R)
-- [Powerpoint](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Individual%20project_Chen%20Wang-no%20video-2.pptx)
-- [Introduction](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/README.md)
+- [Code here](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Individual%20project_Chen%20Wang.R):
+- [Powerpoint](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Individual%20project_Chen%20Wang-no%20video-2.pptx):
+- [Introduction](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/README.md):
 
 
 
