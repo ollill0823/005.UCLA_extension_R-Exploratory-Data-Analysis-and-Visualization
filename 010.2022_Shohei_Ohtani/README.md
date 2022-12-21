@@ -1,36 +1,43 @@
-# Final_project
+# 2022 Shohei Ohtani's Pitching/Batting Data Analysis
 
 ## This file includes:
 
 
 
 ### CSV file:
-- [Taiwan_Taichung_2018_legislator_election_distribution.xlsx](https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/blob/main/005.Final_project/Taiwan_Taichung_2018_legislator_election_distribution.xlsx) Raw data from [Wiki](https://zh.m.wikipedia.org/zh-hant/2020%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%E9%81%B8%E8%88%89%E5%8D%80%E5%9F%9F%E6%9A%A8%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%81%B8%E8%88%89%E5%8D%80%E6%8A%95%E7%A5%A8%E7%B5%90%E6%9E%9C%E5%88%97%E8%A1%A8)
+- [2018_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
+- [2019_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
+- [2020_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
+- [2021_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
+- [2022_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
+- [2018_MLB_pitching.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
+- [2019_MLB_pitching.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
+- [2020_MLB_pitching.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
+- [2021_MLB_pitching.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
+- [2022_MLB_pitching.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
+- [Shohei_Ohtani_Batting_Baseball_Savant.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Shohei_Ohtani_Batting_Baseball_Savant.csv) Raw data from [Fangraphs](https://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=20&type=8&season=2022&month=0&season1=2022&ind=0&team=0&rost=0&age=0&filter=&players=0)
+- [Shohei_Ohtani_Pitching_Baseball_Savant.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Shohei_Ohtani_Pitching_Baseball_Savant.csv) Raw data from [Fangraphs](https://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=20&type=8&season=2022&month=0&season1=2022&ind=0&team=0&rost=0&age=0&filter=&players=0)
 
 
-### Geo_json file:
-- [Geo-json](https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/blob/main/005.Final_project/Geo_json_file/Taiwan-village-boundaries.json) Raw data from [titaneric/Taiwan-GeoJSON](https://github.com/titaneric/Taiwan-GeoJSON)
 
 
-### Jupyter notebook
-- [Code here](https://nbviewer.org/github/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/blob/main/005.Final_project/IE532_Final_Group_Project_1216.ipynb)
-- I choose the [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) problem for my final project. There were some [rumors](https://michaelturton.blogspot.com/2008/02/gerrymandering.html) about several districts experiencing unbiased re-arrangement in Taiwan 20 years ago. The second district in Taichung is one of the most apparent examples. The district is weird in Taiwan because it connects to coastal areas, urban residential areas, and mountain areas. Our goal is to use **gurobi** to find the optimal distribution, and then, compared it with the current situation. if the simulation meets our expectations, we can suggest the rumor is convincible. Also, we can assume if we can control the re-arrangement, how we can draw to win the best legislator votes. We will use the 2018 legislator votes as our dataset, and inside the analysis, we will classify the votes into two major groups: [the DPP and the KMT party](https://en.wikipedia.org/wiki/Legislative_Yuan_constituencies_in_Taichung_City).
+
+### Rstudio
+- [Code here](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Final%20Project_Final-2.R) 
+- Shohei is one of the best baseball players all over the world. Even though he did not get the final MVP in the 2022 season, his performance is no doubt at the top. In 2022, baseball becomes juicy, so only a few players can improve their performance (nonetheless Aaron Judge hit historically high home runs), Ohtani returns his batting performance with a comparable result to his previous year. While his batting did not improve, his pitching is amazing. compared to the season in 2021, he improved his pitching to another level. 
+- In the project, I will analyze why Ohtani can keep his batting result and how he modifies his pitching gestures to improve his pitching.
    - **Results**:
-      - 001. [Re-distribution](https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/blob/main/005.Final_project/Pictures/chapter4.png)
-      - 002. [Benefits to the DPP party](https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/blob/main/005.Final_project/Pictures/chapter5.png)
-      - 003. [Benefits to the KMT party](https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/blob/main/005.Final_project/Pictures/chapter6.png)
-   - **Another finding in gurobi**:
-      - 004. [Can only be allowed if and only if one objective function](https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/blob/main/005.Final_project/Pictures/obj_issue.png)
+      - Ohtani's [pitching launching speed](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/image/Ohtani's%20launch%20speed's%20dnesity%20distribution.png) improved
+      - Ohtani's pitching [launching angle](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/image/Ohtani_Batting_launch%20angle-3.png) keeps
+      - Ohtanit's [pitching gestures](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/image/Ohtani's%20pitching%20release%20position%20by%20date-2.png) did not change when he pitched different type of balls.
 
 
 ### Summary powerpoint
-- [See powerpoint here](https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/blob/main/005.Final_project/IE532_Final_Group_Project.pptx)
+- [See powerpoint here]([https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/blob/main/005.Final_project/IE532_Final_Group_Project.pptx](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Final%20project%20presentation%20-%20last%20version-Final-2.pptx))
 
 
 ### References:
-- 1. [The View from Taiwan](https://michaelturton.blogspot.com/2008/02/gerrymandering.html) Turton, M. (n.d.). Gerrymandering?
-- 2. [Legislative Yuan constituencies in Taichung City](https://en.wikipedia.org/wiki/Legislative_Yuan_constituencies_in_Taichung_City) Wikimedia Foundation. (2022, January 9). Legislative Yuan constituencies in Taichung City. Wikipedia
-- 3. [Gerrymandering wiki](https://en.wikipedia.org/wiki/Gerrymandering) Wikimedia Foundation. (2022, December 15). Gerrymandering. Wikipedia
-- 4. [A Model of Contiguity for Spatial Unit Allocation](https://onlinelibrary.wiley.com/doi/10.1111/j.1538-4632.2005.00605.x) Shirabe, T. (n.d.). A model of contiguity for Spatial Unit Allocation - Wiley Online Library.
+- [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result) Statcast Search. baseballsavant.com. (n.d.)
+- [Fangraphs](https://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=20&type=8&season=2022&month=0&season1=2022&ind=0&team=0&rost=0&age=0&filter=&players=0) Major League leaderboards " 2022 " batters " Dashboard: Fangraphs baseball. Major League Leaderboards " 2022 " Batters " Dashboard | FanGraphs Baseball. (n.d.).
 
 
