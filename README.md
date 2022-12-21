@@ -24,9 +24,9 @@ This file is related to the course I registered for in 2022 Spring at UCLA exten
 
 ### 003.Project(2/2): **$\textcolor{green}{2022\ Shohei\ Ohtani\ Pitching/Batting\ Data\ Analysis}$**
 > __Note__
-- [Code here](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Final%20Project_Final-2.R) 
-- [Powerpoint here](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Final%20project%20presentation%20-%20last%20version-Final-2.pptx)
-- [Introduction](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/010.2022_Shohei_Ohtani)
+- [Code here](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Final%20Project_Final-2.R):
+- [Powerpoint here](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Final%20project%20presentation%20-%20last%20version-Final-2.pptx):
+- [Introduction](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/010.2022_Shohei_Ohtani):
 
 
 ### Authors
