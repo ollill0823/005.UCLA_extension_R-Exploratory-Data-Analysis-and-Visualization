@@ -4,7 +4,7 @@
 
 
 This file is related to the course I registered for in 2022 Spring at UCLA extension.
-## It includes 12 files:
+## It includes 12 folders:
 
 
 ### 002.Assignment:
