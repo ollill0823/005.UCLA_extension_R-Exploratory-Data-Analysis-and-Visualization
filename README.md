@@ -8,7 +8,7 @@ This file is related to the course I registered for in 2022 Spring at UCLA exten
 
 
 ### 002.Assignment:
-- It contains 12 week file. All the file includes the professor's handout, and my assginment R code. 
+- It contains 12 week folders. All the file includes the professor's handout, and my assginment R code. 
    - [(W001)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/W001), [(W002)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/W002), [(W003)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/W003), [(W004)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/W004), [(W005)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/W005), [(W006)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/W006), [(W007)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/W007), [(W008)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/W008), [(W009)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/W009), [(W010)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/W010), [(W011)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/W011), [(W012)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/W012)
 
 
