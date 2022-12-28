@@ -18,7 +18,6 @@ This file is related to the course I registered for in 2022 Spring at UCLA exten
 > __Note__ [Detail](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/009.2020_American_president_votes)
 - [Code here](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Individual%20project_Chen%20Wang.R):
 - [Powerpoint](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Individual%20project_Chen%20Wang-no%20video-2.pptx):
-- [Introduction](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/README.md):
 
 
 
@@ -26,7 +25,6 @@ This file is related to the course I registered for in 2022 Spring at UCLA exten
 > __Note__ [Detail](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/010.2022_Shohei_Ohtani)
 - [Code here](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Final%20Project_Final-2.R):
 - [Powerpoint here](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Final%20project%20presentation%20-%20last%20version-Final-2.pptx):
-- [Introduction](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/tree/main/010.2022_Shohei_Ohtani):
 
 
 ### Authors
