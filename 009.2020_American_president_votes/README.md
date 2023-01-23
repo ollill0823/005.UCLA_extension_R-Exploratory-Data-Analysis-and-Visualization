@@ -1,4 +1,4 @@
-# 2020_American_president_votes
+# 2020_American_presidential_votes
 
 ## This file includes:
 
