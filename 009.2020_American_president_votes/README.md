@@ -5,7 +5,7 @@
 
 
 ### CSV file:
-- [2016_Pre_election.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/2016_Pre_election.csv) Raw data from [Federal Election Commission](https://www.fec.gov/introduction-campaign-finance/election-and-voting-information/)
+- [2016_Pre_election.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_presidential_votes/2016_Pre_election.csv) Raw data from [Federal Election Commission](https://www.fec.gov/introduction-campaign-finance/election-and-voting-information/)
 - [2020_Pre_election.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/2020_Pre_election.csv) Raw data from [Federal Election Commission](https://www.fec.gov/introduction-campaign-finance/election-and-voting-information/)
 - [Final.rar](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Final.rar) Raw data from [ANES(American National Election Studies)](https://electionstudies.org/data-center/2020-time-series-study/)
 
