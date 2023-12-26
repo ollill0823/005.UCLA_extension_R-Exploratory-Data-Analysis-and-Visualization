@@ -2,9 +2,7 @@
 
 ## This file includes:
 
-
-
-### CSV file:
+### CSV files:
 - [2018_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
 - [2019_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
 - [2020_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
