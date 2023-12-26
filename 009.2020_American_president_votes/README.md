@@ -1,21 +1,22 @@
-# 2020_American_president_votes
+# 2020_American_presidential_votes
 
 ## This file includes:
 
 
 
 ### CSV file:
-- [2016_Pre_election.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/2016_Pre_election.csv) Raw data from [Federal Election Commission](https://www.fec.gov/introduction-campaign-finance/election-and-voting-information/
-- [2020_Pre_election.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/2020_Pre_election.csv) Raw data from [Federal Election Commission](https://www.fec.gov/introduction-campaign-finance/election-and-voting-information/
+- [2016_Pre_election.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_presidential_votes/2016_Pre_election.csv) Raw data from [Federal Election Commission](https://www.fec.gov/introduction-campaign-finance/election-and-voting-information/)
+- [2020_Pre_election.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/2020_Pre_election.csv) Raw data from [Federal Election Commission](https://www.fec.gov/introduction-campaign-finance/election-and-voting-information/)
 - [Final.rar](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Final.rar) Raw data from [ANES(American National Election Studies)](https://electionstudies.org/data-center/2020-time-series-study/)
 
 
 
 
 ### RStudio
-- [Code here](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Individual%20project_Chen%20Wang.R)
+- [Code](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Individual%20project_Chen%20Wang.R)
+- [Powerpoint](https://docs.google.com/presentation/d/1RSh-8tHoU0AKXj2QVZLrXOMbhN6H6T2W/edit?usp=share_link&ouid=117434447847034760525&rtpof=true&sd=true)
 - It always gets me to wonder why the Republican party lost the 2022 American presidential election. Hence, I decided to combine the actual electoral result to find the swing states. Given swing states and the questionnaire from [ANES](https://electionstudies.org/data-center/2020-time-series-study/), I can have a comprehensive understanding of which factor induce that......
-   - **Results**: [Powerpoint](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Individual%20project_Chen%20Wang-no%20video-2.pptx)
+   - **Results**: 
       - [Five states](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Image/Offset_2.png) have overturned their preferred tendency. 
       - Both parties (DEM & GOP) have a [higher vote](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Image/swing%20state.png) in 2020 in swing states, but DEM’s vote is more significant.
       - Votes for the third candidate change their mind([(Arizona)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Image/Arizona.png), [(Georgia)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Image/Georgia.png), [(Michigan)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Image/Michigan.png), [(Pennsylvani)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Image/Pennsylvania.png), [(Wisconsin)](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/009.2020_American_president_votes/Image/Wisconsin.png)).
