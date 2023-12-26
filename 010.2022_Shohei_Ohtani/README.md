@@ -23,7 +23,7 @@
 
 
 ### Rstudio
-- [Code here]([https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Final%20Project_Final-2.R](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Shohei_Ohtani_analysis.ipynb)) 
+- [Code here](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Shohei_Ohtani_analysis.ipynb) 
 - [Powerpoint here](https://docs.google.com/presentation/d/1aCubLpRF2-DRmsGPqF7a06nERPIdIwWh/edit?usp=share_link&ouid=117434447847034760525&rtpof=true&sd=true)
 - Shohei is one of the best baseball players all over the world. Even though he did not get the final MVP in the 2022 season, his performance is no doubt at the top. In 2022, baseball becomes juicy, so only a few players can improve their performance (nonetheless Aaron Judge hit historically high home runs), Ohtani returns his batting performance with a comparable result to his previous year. While his batting did not improve, his pitching is amazing. compared to the season in 2021, he improved his pitching to another level. 
 - In the project, I will analyze why Ohtani can keep his batting result and how he modifies his pitching gestures to improve his pitching.
